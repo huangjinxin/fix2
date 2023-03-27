@@ -13,7 +13,7 @@
 <div class="new-nav">
 
     <ul class="new-nav-ul">
-        <li><a href="#">柒零陆</a>
+        <li><a href="../tobe/index.php">柒零陆</a>
             <ul class="new-nav-sub-menu">
                 <li><a href="#">回望·过去</a></li>
                 <li><a href="#">记录·当下</a></li>
@@ -22,11 +22,11 @@
                 <li><a href="#">加入·关注</a></li>
             </ul>
         </li>
-        <li><a href="#">生存·商业</a>
+        <li><a href="../tobe/fix01.php">生存·商业</a>
             <ul class="new-nav-sub-menu">
-                <li><a href="#">俄罗斯电商</a></li>
-                <li><a href="#">YouTube直播</a></li>
-                <li><a href="#">维修·改装</a></li>
+                <li><a href="../tobe/ruzono.php">俄罗斯电商</a></li>
+                <li><a href="../tobe/zhibo01.php">YouTube直播</a></li>
+                <li><a href="../tobe/">维修·改装</a></li>
                 <li><a href="#">数据·安全</a></li>
                 <li><a href="#">智能化改造工程</a></li>
                 <li><a href="#">科学·上网</a></li>
@@ -72,4 +72,5 @@
     </ul>
 
 </div>
+
 
