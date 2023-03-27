@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>数学·706科技</title>
+    <title>AI直播带货·706科技</title>
     <link rel="stylesheet" href="../css/nav.css">
     <link rel="stylesheet" href="../css/doc.css">
     <!-- nav标签，定义导航链接的部分 -->
@@ -79,7 +79,7 @@
                 }
             </style>
             <header>
-                <h1>柒零陆科技 - 数学</h1>
+                <h1>柒零陆科技 - AI直播带货</h1>
             </header>
             <main>
                 <h2>我们的业务：</h2>

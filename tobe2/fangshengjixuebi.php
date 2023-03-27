@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>共同学习·706科技</title>
+    <title>仿生·机械臂·706科技</title>
     <link rel="stylesheet" href="../css/nav.css">
     <link rel="stylesheet" href="../css/doc.css">
     <!-- nav标签，定义导航链接的部分 -->
@@ -169,7 +169,7 @@
 <div class="parallax-container">
     <div class="container center-align">
         <div class="card-panel white ad-content">
-            <h1 class="ad-title">共同学习</h1>
+            <h1 class="ad-title">仿生·机械臂</h1>
             <hr>
             <ul class="ad-paragraph">
                 <li>

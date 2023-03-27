@@ -48,7 +48,7 @@
         </li>
         <li><a href="../tobe2/fazhanyuyanfa.php">发展·研发</a>
             <ul class="new-nav-sub-menu">
-                <li><a href="../tobe2/fangshenjixiebi.php">仿生·机械臂</a></li>
+                <li><a href="../tobe2/fangshengjixuebi.php">仿生·机械臂</a></li>
                 <li><a href="../tobe2/Aizhibodaihuo.php">AI直播带货</a></li>
                 <li><a href="../tobe2/AInengyuan.php">AI能源·效率</a></li>
                 <li><a href="../tobe2/AIshuanli.php">AI算力·租赁</a></li>

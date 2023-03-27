@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>编程·706科技</title>
+    <title>AI能源·效率·706科技</title>
     <link rel="stylesheet" href="../css/nav.css">
     <link rel="stylesheet" href="../css/doc.css">
     <!-- nav标签，定义导航链接的部分 -->
@@ -76,7 +76,7 @@
                 }
             </style>
             <header>
-                <h1>柒零陆科技 - 编程</h1>
+                <h1>柒零陆科技 - AI能源·效率</h1>
             </header>
             <main>
                 <p>柒零陆科技为县城电商产业园的公司、政府机构、企业提供数据安全服务。我们的服务基于本地化的苹果时间机器服务器和路由器改装升级部署，帮助您保护您的数据免受丢失、损坏或被盗的风险。</p>

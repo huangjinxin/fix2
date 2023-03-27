@@ -64,35 +64,35 @@
                         <p>私有云GPT</p>
                     </a>
                 </div>
-                <div class="item">
-                    <a href="huaxue.php">
-                        <img src="../tobe/img/qugg01.jpg">
-                        <h3>化学</h3>
-                        <p>化学</p>
-                    </a>
-                </div>
+<!--                <div class="item">-->
+<!--                    <a href="huaxue.php">-->
+<!--                        <img src="../tobe/img/qugg01.jpg">-->
+<!--                        <h3>化学</h3>-->
+<!--                        <p>化学</p>-->
+<!--                    </a>-->
+<!--                </div>-->
 
-                <div class="item">
-                    <a href="rengongzhin.php">
-                        <img src="../tobe/img/vpn01.jpg">
-                        <h3>人工智能入门</h3>
-                        <p>人工智能入门</p>
-                    </a>
-                </div>
-                <div class="item">
-                    <a href="shengwu.php">
-                        <img src="../tobe/img/youtubelive01.jpg">
-                        <h3>生物</h3>
-                        <p>生物</p>
-                    </a>
-                </div>
-                <div class="item">
-                    <a href="wuli.php">
-                        <img src="../tobe/img/znhgz01.jpg">
-                        <h3>物理</h3>
-                        <p>物理</p>
-                    </a>
-                </div>
+<!--                <div class="item">-->
+<!--                    <a href="rengongzhin.php">-->
+<!--                        <img src="../tobe/img/vpn01.jpg">-->
+<!--                        <h3>人工智能入门</h3>-->
+<!--                        <p>人工智能入门</p>-->
+<!--                    </a>-->
+<!--                </div>-->
+<!--                <div class="item">-->
+<!--                    <a href="shengwu.php">-->
+<!--                        <img src="../tobe/img/youtubelive01.jpg">-->
+<!--                        <h3>生物</h3>-->
+<!--                        <p>生物</p>-->
+<!--                    </a>-->
+<!--                </div>-->
+<!--                <div class="item">-->
+<!--                    <a href="wuli.php">-->
+<!--                        <img src="../tobe/img/znhgz01.jpg">-->
+<!--                        <h3>物理</h3>-->
+<!--                        <p>物理</p>-->
+<!--                    </a>-->
+<!--                </div>-->
 
             </div>
 

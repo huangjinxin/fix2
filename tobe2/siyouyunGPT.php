@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>3D设计与打印·706科技</title>
+    <title>私有云GPT·706科技</title>
     <link rel="stylesheet" href="../css/nav.css">
     <link rel="stylesheet" href="../css/doc.css">
     <!-- nav标签，定义导航链接的部分 -->
@@ -78,7 +78,7 @@
                 }
             </style>
             <header>
-                <h1>柒零陆·3D设计与打印</h1>
+                <h1>柒零陆·私有云GPT</h1>
             </header>
             <p>我们是一家专业的手机维修公司，提供苹果手机平板的维修服务。我们的公司名字叫做柒零陆科技，位于湖北省襄阳市谷城县北辰大道特1号电商产业园。我们的目标是为客户提供高品质、快速、便捷的手机维修服务。</p>
             <h2>服务项目</h2>
