@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>维修登记</title>
+  <link rel="stylesheet" href="../css/nav.css">
+  <link rel="stylesheet" href="../css/reg-find.css">
+  <script src="../reg.js"></script>
+</head>
+<body>
+<header>
+
+  <!-- nav标签，定义导航链接的部分 -->
+  <div class="new-nav">
+
+    <ul class="new-nav-ul">
+      <li><a href="#">柒零陆</a>
+        <ul class="new-nav-sub-menu">
+          <li><a href="#">回望·过去</a></li>
+          <li><a href="#">记录·当下</a></li>å
+          <li><a href="#">不忘·初心</a></li>
+          <li><a href="#">展望·未来</a></li>
+          <li><a href="#">加入·关注</a></li>
+        </ul>
+      </li>
+      <li><a href="#">生存·商业</a>
+        <ul class="new-nav-sub-menu">
+          <li><a href="#">俄罗斯电商</a></li>
+          <li><a href="#">YouTube直播</a></li>
+          <li><a href="#">维修·改装</a></li>
+          <li><a href="#">数据·安全</a></li>
+          <li><a href="#">智能化改造工程</a></li>
+          <li><a href="#">科学·上网</a></li>
+          <li><a href="#">私有云服务</a></li>
+          <li><a href="#">电脑去广告</a></li>
+        </ul>
+      </li>
+      <li><a href="#">过渡·尝试</a>
+        <ul class="new-nav-sub-menu">
+          <li><a href="#">web开发</a></li>
+          <li><a href="#">小程序开发</a></li>
+          <li><a href="#">app技术服务</a></li>
+          <li><a href="#">嵌入式开发</a></li>
+          <li><a href="#">plc开发</a></li>
+          <li><a href="#">单片机开发</a></li>
+          <li><a href="#">3D打印优化</a></li>
+          <li><a href="#">AI数字生命</a></li>
+        </ul>
+      </li>
+      <li><a href="#">发展·研发</a>
+        <ul class="new-nav-sub-menu">
+          <li><a href="#">仿生·机械臂</a></li>
+          <li><a href="#">AI直播带货</a></li>
+          <li><a href="#">AI能源·效率</a></li>
+          <li><a href="#">AI算力·租赁</a></li>
+          <li><a href="#">私有云GPT</a></li>
+        </ul>
+
+      </li>
+      <li><a href="#">温故·知新</a>
+        <ul class="new-nav-sub-menu">
+          <li><a href="#">共同学习</a></li>
+          <li><a href="#">数学</a></li>
+          <li><a href="#">英语</a></li>
+          <li><a href="#">编程</a></li>
+          <li><a href="#">3D设计与打印</a></li>
+          <li><a href="#">化学</a></li>
+          <li><a href="#">人工智能入门</a></li>
+          <li><a href="#">生物</a></li>
+          <li><a href="#">物理</a></li>
+        </ul>
+      </li>
+    </ul>
+
+  </div>
+
+</header>
+
+<!-- 维修登记表单 -->
+<div class="register-form">
+  <h2>维修登记</h2>
+  <form action="../reg-node.js" method="post">
+    <div class="form-group">
+      <label for="name">姓名：</label>
+      <input type="text" id="name" name="name" required>
+    </div>
+    <div class="form-group">
+      <label for="phone">手机号：</label>
+      <input type="tel" id="phone" name="phone" pattern="[0-9]{11}" required>
+    </div>
+    <div class="form-group">
+      <label for="location">地理位置：</label>
+      <select id="location" name="location">
+        <option value="北京市">北京市</option>
+        <option value="上海市">上海市</option>
+        <option value="广州市">广州市</option>
+        <option value="深圳市">深圳市</option>
+        <!-- 可以根据实际需要添加更多选项 -->
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="device-type">设备类型：</label>
+      <select id="device-type" name="device-type">
+        <option value="">请选择</option>
+        <option value="手机">手机</option>
+        <option value="平板">平板</option>
+        <option value="电脑">电脑</option>
+        <!-- 可以根据实际需要添加更多选项 -->
+      </select>
+    </div>
+    <div id="device-model-group" class="form-group" style="display:none">
+      <label for="device-model">设备型号：</label>
+      <select id="device-model" name="device-model">
+        <option value="">请选择</option>
+        <optgroup id="iPhone-group" label="iPhone">
+          <option value="iPhone 12">iPhone 12</option>
+          <option value="iPhone 11">iPhone 11</option>
+          <option value="iPhone XR">iPhone XR</option>
+        </optgroup>
+        <optgroup id="iPad-group" label="iPad">
+          <option value="iPad Pro">iPad Pro</option>
+          <option value="iPad Air">iPad Air</option>
+          <option value="iPad Mini">iPad Mini</option>
+        </optgroup>
+        <optgroup id="Mac-group" label="Mac">
+          <option value="MacBook Pro">MacBook Pro</option>
+          <option value="MacBook Air">MacBook Air</option>
+          <option value="iMac">iMac</option>
+        </optgroup>
+        <!-- 可以根据实际需要添加更多选项 -->
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="description">故障描述：</label>
+      <textarea id="description" name="description" required></textarea>
+    </div>
+    <div class="form-group">
+      <label for="photo">上传图片：</label>
+      <input type="file" id="photo" name="photo">
+    </div>
+    <button type="submit">提交</button>
+  </form>
+</div>
+
+
+<script>
+  var deviceType = document.getElementById("device-type");
+  var deviceModelGroup = document.getElementById("device-model-group");
+  var iPhoneGroup = document.getElementById("iPhone-group");
+  var iPadGroup = document.getElementById("iPad-group");
+  var MacGroup = document.getElementById("Mac-group");
+
+  deviceType.addEventListener("change", function() {
+    if (deviceType.value === "手机") {
+      deviceModelGroup.style.display = "block";
+      iPhoneGroup.style.display = "block";
+      iPadGroup.style.display = "none";
+      MacGroup.style.display = "none";
+    } else if (deviceType.value === "平板") {
+      deviceModelGroup.style.display = "block";
+      iPhoneGroup.style.display = "none";
+      iPadGroup.style.display = "block";
+      MacGroup.style.display = "none";
+    } else if (deviceType.value === "电脑") {
+      deviceModelGroup.style.display = "block";
+      iPhoneGroup.style.display = "none";
+      iPadGroup.style.display = "none";
+      MacGroup.style.display = "block";
+    } else {
+      deviceModelGroup.style.display = "none";
+      iPhoneGroup.style.display = "none";
+      iPadGroup.style.display = "none";
+      MacGroup.style.display = "none";
+    }
+  });
+</script>
+
+
+<footer>
+  <p>© 2023 by RepairTech. All rights reserved.</p>
+</footer>
+</body>
+</html>
