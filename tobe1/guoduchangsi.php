@@ -19,29 +19,29 @@
             <div class="container">
                 <!-- 定义一个容器div，用来包含九个子div -->
                 <div class="item">
-                    <a href="localdata01.php">
+                    <a href="webkaifa.php">
                         <img src="../tobe/img/syy01.jpg">
-                        <h3>AI智能办公环境部署业务</h3>
-                        <p>AI智能办公环境部署业务</p>
+                        <h3>web开发</h3>
+                        <p>web开发</p>
                     </a>
                 </div>
 
                 <div class="item">
-                    <a href="ruzono.php">
+                    <a href="xiaochengx.php">
                         <img src="../tobe/img/ru01.jpg" >
-                        <h3>俄罗斯欧洲跨境电商</h3>
+                        <h3>小程序开发</h3>
                     </a>
                     <p>
-                        俄罗斯欧洲跨境电商
+                        小程序开发
                     </p>
 
                 </div>
                 <div class="item">
-                    <a href="fixcomputer01.php">
+                    <a href="appjisu.php">
                         <img src="../tobe/img/computerfix.jpg">
-                        <h3>Apple电脑维修服务</h3>
+                        <h3>app技术服务</h3>
                         <p>
-                            Apple电脑维修服务
+                            app技术服务
                         </p>
                     </a>
                 </div>
@@ -49,10 +49,10 @@
                 <div class="item">
                     <a href="data01.php">
                         <img src="../tobe/img/data01.jpg">
-                        <h3>数据安全综合服务</h3>
+                        <h3>嵌入式开发</h3>
                     </a>
                     <p>
-                        数据安全综合服务
+                        嵌入式开发
                     </p>
                 </div>
                 <!-- 重复上面的步骤，直到九个子div都创建好 -->
@@ -60,37 +60,37 @@
                 <div class="item">
                     <a href="fixphone01.php">
                         <img src="../tobe/img/phonefix.jpg">
-                        <h3>手机维修改装综合服务</h3>
-                        <p>手机维修改装综合服务</p>
+                        <h3>plc开发</h3>
+                        <p>plc开发</p>
                     </a>
                 </div>
                 <div class="item">
                     <a href="qugg01.php">
                         <img src="../tobe/img/qugg01.jpg">
-                        <h3>电脑去广告服务</h3>
-                        <p>电脑去广告服务</p>
+                        <h3>单片机开发</h3>
+                        <p>单片机开发</p>
                     </a>
                 </div>
 
                 <div class="item">
                     <a href="vpn01.php">
                         <img src="../tobe/img/vpn01.jpg">
-                        <h3>科学上网辅助跨境业务</h3>
-                        <p>科学上网辅助跨境业务</p>
+                        <h3>3D打印优化</h3>
+                        <p>3D打印优化</p>
                     </a>
                 </div>
                 <div class="item">
                     <a href="zhibo01.php">
                         <img src="../tobe/img/youtubelive01.jpg">
-                        <h3>全球直播卖货全世界</h3>
-                        <p>全球直播卖货全世界</p>
+                        <h3>AI数字生命</h3>
+                        <p>AI数字生命</p>
                     </a>
                 </div>
                 <div class="item">
                     <a href="funengchuantonghangyegaizhao.php">
                         <img src="../tobe/img/znhgz01.jpg">
-                        <h3>赋能传统行业智能化改造</h3>
-                        <p>赋能传统行业智能化改造</p>
+                        <h3>待开发。。。</h3>
+                        <p>待开发。。。</p>
                     </a>
                 </div>
 

@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="../css/nav.css">
     <link rel="stylesheet" href="../css/doc.css">
     <!-- nav标签，定义导航链接的部分 -->
-        <?php include('../php/nav.php'); ?>
+    <?php include('../php/nav.php'); ?>
 </head>
 <body>
 
@@ -75,7 +75,7 @@
                 }
             </style>
             <header>
-                <h1>柒零陆科技 - 科学上网服务</h1>
+                <h1>柒零陆科技 - 私有云网服务</h1>
             </header>
 
             <main>
@@ -154,3 +154,4 @@
 
 </body>
 </html>
+

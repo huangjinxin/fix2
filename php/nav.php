@@ -26,18 +26,18 @@
             <ul class="new-nav-sub-menu">
                 <li><a href="../tobe/ruzono.php">俄罗斯电商</a></li>
                 <li><a href="../tobe/zhibo01.php">YouTube直播</a></li>
-                <li><a href="../tobe/">维修·改装</a></li>
-                <li><a href="#">数据·安全</a></li>
-                <li><a href="#">智能化改造工程</a></li>
-                <li><a href="#">科学·上网</a></li>
-                <li><a href="#">私有云服务</a></li>
-                <li><a href="#">电脑去广告</a></li>
+                <li><a href="../tobe/fixphone01.php">维修·改装</a></li>
+                <li><a href="../tobe/data01.php">数据·安全</a></li>
+                <li><a href="../tobe/funengchuantonghangyegaizhao.php">智能化改造工程</a></li>
+                <li><a href="../tobe/vpn01.php">科学·上网</a></li>
+                <li><a href="../tobe/siyouyunfuwu.php">私有云服务</a></li>
+                <li><a href="../tobe/qugg01.php">电脑去广告</a></li>
             </ul>
         </li>
-        <li><a href="#">过渡·尝试</a>
+        <li><a href="../tobe1/guoduchangsi.php">过渡·尝试</a>
             <ul class="new-nav-sub-menu">
-                <li><a href="#">web开发</a></li>
-                <li><a href="#">小程序开发</a></li>
+                <li><a href="../tobe1/webkaifa.php">web开发</a></li>
+                <li><a href="../tobe1/xiaochengx.php">小程序开发</a></li>
                 <li><a href="#">app技术服务</a></li>
                 <li><a href="#">嵌入式开发</a></li>
                 <li><a href="#">plc开发</a></li>
