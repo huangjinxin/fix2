@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>过渡·尝试·706科技</title>
+    <title>温故·知新·706科技</title>
     <link rel="stylesheet" href="../css/nav.css">
     <link rel="stylesheet" href="../css/doc.css">
     <link rel="stylesheet" href="../css/photo9.css">
@@ -19,78 +19,78 @@
             <div class="container">
                 <!-- 定义一个容器div，用来包含九个子div -->
                 <div class="item">
-                    <a href="webkaifa.php">
+                    <a href="gongtongxuexi.php">
                         <img src="../tobe/img/syy01.jpg">
-                        <h3>web开发</h3>
-                        <p>web开发</p>
+                        <h3>共同学习</h3>
+                        <p>共同学习</p>
                     </a>
                 </div>
 
                 <div class="item">
-                    <a href="xiaochengx.php">
+                    <a href="shuxue.php">
                         <img src="../tobe/img/ru01.jpg" >
-                        <h3>小程序开发</h3>
+                        <h3>数学</h3>
                     </a>
                     <p>
-                        小程序开发
+                        数学
                     </p>
 
                 </div>
                 <div class="item">
-                    <a href="appjisu.php">
+                    <a href="yingyu.php">
                         <img src="../tobe/img/computerfix.jpg">
-                        <h3>app技术服务</h3>
+                        <h3>英语</h3>
                         <p>
-                            app技术服务
+                           英语
                         </p>
                     </a>
                 </div>
                 <!-- 定义一个子div，用来显示一张图片和一个p标签 -->
                 <div class="item">
-                    <a href="qianrushikf.php">
+                    <a href="biancheng.php">
                         <img src="../tobe/img/data01.jpg">
-                        <h3>嵌入式开发</h3>
+                        <h3>编程</h3>
                     </a>
                     <p>
-                        嵌入式开发
+                        编程
                     </p>
                 </div>
                 <!-- 重复上面的步骤，直到九个子div都创建好 -->
 
                 <div class="item">
-                    <a href="plckaifa.php">
+                    <a href="3dsheji.php">
                         <img src="../tobe/img/phonefix.jpg">
-                        <h3>plc开发</h3>
-                        <p>plc开发</p>
+                        <h3>3D设计与打印</h3>
+                        <p>3D设计与打印</p>
                     </a>
                 </div>
                 <div class="item">
-                    <a href="danpianji.php">
+                    <a href="huaxue.php">
                         <img src="../tobe/img/qugg01.jpg">
-                        <h3>单片机开发</h3>
-                        <p>单片机开发</p>
+                        <h3>化学</h3>
+                        <p>化学</p>
                     </a>
                 </div>
 
                 <div class="item">
-                    <a href="3d.php">
+                    <a href="rengongzhin.php">
                         <img src="../tobe/img/vpn01.jpg">
-                        <h3>3D打印优化</h3>
-                        <p>3D打印优化</p>
+                        <h3>人工智能入门</h3>
+                        <p>人工智能入门</p>
                     </a>
                 </div>
                 <div class="item">
-                    <a href="AIshuzi.php">
+                    <a href="shengwu.php">
                         <img src="../tobe/img/youtubelive01.jpg">
-                        <h3>AI数字生命</h3>
-                        <p>AI数字生命</p>
+                        <h3>生物</h3>
+                        <p>生物</p>
                     </a>
                 </div>
                 <div class="item">
-                    <a href="daikaifa.php">
+                    <a href="wuli.php">
                         <img src="../tobe/img/znhgz01.jpg">
-                        <h3>待开发。。。</h3>
-                        <p>待开发。。。</p>
+                        <h3>物理</h3>
+                        <p>物理</p>
                     </a>
                 </div>
 

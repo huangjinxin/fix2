@@ -38,35 +38,35 @@
             <ul class="new-nav-sub-menu">
                 <li><a href="../tobe1/webkaifa.php">web开发</a></li>
                 <li><a href="../tobe1/xiaochengx.php">小程序开发</a></li>
-                <li><a href="#">app技术服务</a></li>
-                <li><a href="#">嵌入式开发</a></li>
-                <li><a href="#">plc开发</a></li>
-                <li><a href="#">单片机开发</a></li>
-                <li><a href="#">3D打印优化</a></li>
-                <li><a href="#">AI数字生命</a></li>
+                <li><a href="../tobe1/appjisu.php">app技术服务</a></li>
+                <li><a href="../tobe1/qianrushikf.php">嵌入式开发</a></li>
+                <li><a href="../tobe1/plckaifa.php">plc开发</a></li>
+                <li><a href="../tobe1/danpianji.php">单片机开发</a></li>
+                <li><a href="../tobe1/3d.php">3D打印优化</a></li>
+                <li><a href="../tobe1/AIshuzi.php">AI数字生命</a></li>
             </ul>
         </li>
-        <li><a href="#">发展·研发</a>
+        <li><a href="../tobe2/fazhanyuyanfa.php">发展·研发</a>
             <ul class="new-nav-sub-menu">
-                <li><a href="#">仿生·机械臂</a></li>
-                <li><a href="#">AI直播带货</a></li>
-                <li><a href="#">AI能源·效率</a></li>
-                <li><a href="#">AI算力·租赁</a></li>
-                <li><a href="#">私有云GPT</a></li>
+                <li><a href="../tobe2/fangshenjixiebi.php">仿生·机械臂</a></li>
+                <li><a href="../tobe2/Aizhibodaihuo.php">AI直播带货</a></li>
+                <li><a href="../tobe2/AInengyuan.php">AI能源·效率</a></li>
+                <li><a href="../tobe2/AIshuanli.php">AI算力·租赁</a></li>
+                <li><a href="../tobe2/siyouyunGPT.php">私有云GPT</a></li>
             </ul>
 
         </li>
-        <li><a href="#">温故·知新</a>
+        <li><a href="../tobe3/wenguzhixin.php">温故·知新</a>
             <ul class="new-nav-sub-menu">
-                <li><a href="#">共同学习</a></li>
-                <li><a href="#">数学</a></li>
-                <li><a href="#">英语</a></li>
-                <li><a href="#">编程</a></li>
-                <li><a href="#">3D设计与打印</a></li>
-                <li><a href="#">化学</a></li>
-                <li><a href="#">人工智能入门</a></li>
-                <li><a href="#">生物</a></li>
-                <li><a href="#">物理</a></li>
+                <li><a href="../tobe3/gongtongxuexi.php">共同学习</a></li>
+                <li><a href="../tobe3/shuxue.php">数学</a></li>
+                <li><a href="../tobe3/yingyu.php">英语</a></li>
+                <li><a href="../tobe3/biancheng.php">编程</a></li>
+                <li><a href="../tobe3/3dsheji.php">3D设计与打印</a></li>
+                <li><a href="../tobe3/huaxue.php">化学</a></li>
+                <li><a href="../tobe3/rengongzhin.php">人工智能入门</a></li>
+                <li><a href="../tobe3/shengwu.php">生物</a></li>
+                <li><a href="../tobe3/wuli.php">物理</a></li>
             </ul>
         </li>
     </ul>
