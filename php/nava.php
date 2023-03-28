@@ -7,9 +7,30 @@
     <!-- 响应式设计，适应不同屏幕大小 -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <!-- 样式代码 -->
+    <style>
+        /* 隐藏导航栏的样式 */
+        .new-nav-collapse {
+            display: none;
+        }
+
+        /* 在小屏幕下显示导航栏的样式 */
+        @media screen and (max-width: 768px) {
+            .new-nav-collapse {
+                display: block;
+            }
+
+            .new-nav-ul {
+                display: none;
+            }
+        }
+    </style>
 </head>
 <body>
-
+<!-- 导航栏折叠按钮 -->
+<div class="new-nav-collapse">
+    <button id="new-nav-btn" class="new-nav-btn">&#9776;</button>
+</div>
 
 <!-- nav标签，定义导航链接的部分 -->
 <div class="new-nav">
@@ -74,5 +95,19 @@
     </ul>
 
 </div>
+<script>
+    // 获取导航栏元素和按钮元素
+    var newNav = document.querySelector('.new-nav-ul');
+    var newNavBtn = document.querySelector('#new-nav-btn');
 
-
+    // 在按钮被点击时切换导航栏的显示状态
+    newNavBtn.addEventListener('click', function() {
+        if (newNav.style.display === 'block') {
+            newNav.style.display = 'none';
+        } else {
+            newNav.style.display = 'block';
+        }
+    });
+</script>
+</body>
+</html>
